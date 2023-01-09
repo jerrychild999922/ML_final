@@ -10,5 +10,5 @@ Please refers to [109550116_Final.pdf](https://github.com/jerrychild999922/ML_fi
 4. Run 109550164_Final_inference.ipynb to reproduce the result
 
 ## make-up (if code can't run above)
-1. Download my makeup notebook [109550116_Final_makeup.ipynb]()
+1. Download my makeup notebook [109550116_Final_makeup.ipynb](https://github.com/jerrychild999922/ML_final/blob/main/109550116_Final_makeup.ipynb)
 2. Run 109550164_Final_makeup.ipynb
